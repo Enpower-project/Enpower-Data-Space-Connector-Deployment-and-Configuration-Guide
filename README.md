@@ -87,7 +87,7 @@ Some important definitions about the Enpower Middleware are:
    1. Data Offering Service Discovery by Data Consumer </br>
    2. Subscription Request</br>
    3. Request Response by the Data Provider</br>
-   4. Upon accepting the Subscription is enabled.</br>
+   4. Upon accepting the Subscription is enabled.
 
 
 <p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Data Entity</b> : Is every Data file (assigned in the «umbrella» of a Data Offering Service) that is shared by the Data provider with the Subscribed users of this specific Data offering service</p>
@@ -95,9 +95,9 @@ Some important definitions about the Enpower Middleware are:
 <p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   API libraries</b> : Are API tools/Commands the can be used as an alternative for the actions that can be performed within the Enpower Middleware. These can be used for the programmatical exploitation of and integration with the Enpower Middleware with an external application. These actions include, the Data Offering Service Discovery (Data Offering Service Catalogue list), Data Offering Service Subscription requests, Data Provision & Consumption etc. </p> 
 
 <p align="justify">
-<b>The creation & activation of a user account for the Enpower Middleware is processed upon the request to European Dynamics</b> (please contact dimitrios.apostolidis@eurodyn.com)
+<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" /><b>   The creation & activation of a user account for the Enpower Middleware is processed upon the request to European Dynamics</b> (please contact dimitrios.apostolidis@eurodyn.com)
 
-<b>The creation of a new Data offering Service type or the attributes that compose that (Category, Sub-Category, Business Object), that serve a specific use case and is missing from the Enpower Middleware, is processed upon the request to European Dynamics</b> (please contact dimitrios.apostolidis@eurodyn.com)
+<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" /><b>   The creation of a new Data offering Service type or the attributes that compose that (Category, Sub-Category, Business Object), that serve a specific use case and is missing from the Enpower Middleware, is processed upon the request to European Dynamics</b> (please contact dimitrios.apostolidis@eurodyn.com)
 </p>
 
 The Enpower Middleware can be found in: [Enpower Middleware](https://enpower.eurodyn.com/)
