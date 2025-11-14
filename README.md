@@ -89,7 +89,7 @@ Some important definitions about the Enpower Middleware are:
    1. Data Offering Service Discovery by Data Consumer </br>
    2. Subscription Request</br>
    3. Request Response by the Data Provider</br>
-   4. Upon accepting the Subscription is enabled.
+   4. Upon accepting the Subscription is enabled.</br>
    
 <p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Data Entity</b> : Is every Data file (assigned in the «umbrella» of a Data Offering Service) that is shared by the Data provider with the Subscribed users of this specific Data offering service</p>
 
