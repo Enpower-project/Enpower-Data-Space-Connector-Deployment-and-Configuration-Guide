@@ -137,13 +137,23 @@ The software prerequisites include:
 - Centos 7 or Windows Server Operative System (OS);
 - Docker and docker-compose;
 
-Enpower software and its components will be delivered utilizing the Docker containers functionalities. 
+Enpower Connector software and its components will be delivered utilizing the Docker containers of the folder `#FF0000`"Enpower Connector Docker Files"`#FF0000` of this repository. </br>
+<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" /> Additionally to those folders and file within the "Enpower Connector Docker Files" you need to contact and request the mandatory .env file from the European Dynamics. 
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/ceb41791-d6b1-4f1c-ba2f-eff7f5320d8f" />
 
+
+
+First, you need to connect in your local server through the <b>Command Prompt</b>, install Docker and the needed libraries
+
+
+
+
+
+either by <b>Filezilla</b> or through the <b>Command Prompt</b>.
    First, the Docker platform has to be downloaded and installed accordingly to the OS of the server to host the deployment.
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/98bfc605-56a2-49a4-9948-f37e490b7a59" />a
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/98bfc605-56a2-49a4-9948-f37e490b7a59" />   You need to upload the appropriate files of the clone the files connect to your local server and upload the files of the folder "Enpower Connector Docker Files" in the repository
 
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/3c92f612-98f9-4910-8628-28e2185159d7" />a
