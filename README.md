@@ -131,15 +131,28 @@ The software prerequisites include:
 
 Enpower software and its components will be delivered utilizing the Docker containers functionalities. 
 
-<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/b47b774a-3982-4fd1-9610-c37086bb0caf" />
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/ceb41791-d6b1-4f1c-ba2f-eff7f5320d8f" />
 
 First, the Docker platform has to be downloaded and installed accordingly to the OS of the server to host the deployment.
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/98bfc605-56a2-49a4-9948-f37e490b7a59" />
 
 
 <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />
 
 
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/3c92f612-98f9-4910-8628-28e2185159d7" />
 
+
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/87cd1553-f70b-4571-a4d8-1e5b389bd7c4" />
+
+
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/26d01993-40b9-416f-afb5-110c1f304dbc" />
+
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a19a4e2d-0e58-4241-83be-1f19d43da458" />
 
 
 # 4. API libraries
