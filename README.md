@@ -51,7 +51,7 @@ The list of key features and principles of a common European data space, are:
 - Value-Adding Apps
 - Data Markets
 
-<b>Following the Data Space Protocol it is possible to deploy private Data Spaces that can be used</b>
+<b>Following the Data Space Protocol it is possible to deploy private Data Spaces that can be used for private or public projects such as Enpower</b>
 
 
 # 2. Data Space within Enpower
@@ -79,6 +79,8 @@ The Enpower Middleware is a central Graphical User Interface that operates as th
 6.	Subscription and access management (Negotiation)
 7.	Provisioning and Consuming Data (Data Exchange)
 
+<br/>
+
 Some important definitions about the Enpower Middleware are:
 
 <p align="justify"> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Data Offering Service type</b>: Is a predefined contextual frame that characterizises every data exchange (Data Provision & Consumption) within Enpower Middleware. Every Data Offering service type is followed by three attributes (Generic Category > Sub-category > Specific Business Object) that construct a defined «Topic» that describes the content of the data that will be exchanged.</p>
@@ -88,11 +90,12 @@ Some important definitions about the Enpower Middleware are:
    2. Subscription Request</br>
    3. Request Response by the Data Provider</br>
    4. Upon accepting the Subscription is enabled.
-
-
-<br/><p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Data Entity</b> : Is every Data file (assigned in the «umbrella» of a Data Offering Service) that is shared by the Data provider with the Subscribed users of this specific Data offering service</p>
+   
+ <p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Data Entity</b> : Is every Data file (assigned in the «umbrella» of a Data Offering Service) that is shared by the Data provider with the Subscribed users of this specific Data offering service</p>
 
 <p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   API libraries</b> : Are API tools/Commands the can be used as an alternative for the actions that can be performed within the Enpower Middleware. These can be used for the programmatical exploitation of and integration with the Enpower Middleware with an external application. These actions include, the Data Offering Service Discovery (Data Offering Service Catalogue list), Data Offering Service Subscription requests, Data Provision & Consumption etc. </p> 
+
+<br/>
 
 <p align="justify">
 <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" /><b>   The creation & activation of a user account for the Enpower Middleware is processed upon the request to European Dynamics</b> (please contact dimitrios.apostolidis@eurodyn.com)
