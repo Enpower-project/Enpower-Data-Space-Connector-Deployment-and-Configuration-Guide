@@ -81,7 +81,8 @@ The Enpower Middleware is a central Graphical User Interface that operates as th
 
 Some important definitions about the Enpower Middleware are:
 
-- <p align="justify"><b>Data Offering Service type</b>: Is a predefined contextual frame that characterizises every data exchange (Data Provision & Consumption) within Enpower Middleware. Every Data Offering service type is followed by three attributes (Generic Category > Sub-category > Specific Business Object) that construct a defined «Topic» that describes the content of the data that will be exchanged.</p>
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ba5e490-bd0f-47dc-812e-ec70e76ff14d" />
+ <p align="justify"><b>Data Offering Service type</b>: Is a predefined contextual frame that characterizises every data exchange (Data Provision & Consumption) within Enpower Middleware. Every Data Offering service type is followed by three attributes (Generic Category > Sub-category > Specific Business Object) that construct a defined «Topic» that describes the content of the data that will be exchanged.</p>
 - <p align="justify"><b>Data Offering Service</b> : Is the initial entity that is created by a Data Provider, that defines the Content of the Data that will be shared among the Subscribed (to the Data OFfering) Users. The user selects a Data Offering Service Type among the defined Data Offering Service Type Catalogue that is presented on the Middleware. Every Data Provision is under an «umbrella» of a specific Data Offering service.</p>
 - <p align="justify"><b>Subscription</b> : Is an agreement between a Data Provider and one or more Data Consumers regarding a Data Offering Service. A subscription is performed following the sequential steps: </p>
    1. Data Offering Service Discovery by Data Consumer </br>
