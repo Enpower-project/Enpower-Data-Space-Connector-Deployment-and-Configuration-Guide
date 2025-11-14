@@ -133,26 +133,26 @@ Enpower software and its components will be delivered utilizing the Docker conta
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/ceb41791-d6b1-4f1c-ba2f-eff7f5320d8f" />
 
-First, the Docker platform has to be downloaded and installed accordingly to the OS of the server to host the deployment.
+   First, the Docker platform has to be downloaded and installed accordingly to the OS of the server to host the deployment.
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/98bfc605-56a2-49a4-9948-f37e490b7a59" />
-
-
-<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/98bfc605-56a2-49a4-9948-f37e490b7a59" />a
 
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/3c92f612-98f9-4910-8628-28e2185159d7" />
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/3c92f612-98f9-4910-8628-28e2185159d7" />a
 
 
-
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/87cd1553-f70b-4571-a4d8-1e5b389bd7c4" />
-
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/7e6e96ec-53c5-4ab6-9121-279941d69173" />a
 
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/26d01993-40b9-416f-afb5-110c1f304dbc" />
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/829c5cfe-f828-4129-b245-7bd9af64247a" />a
 
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a19a4e2d-0e58-4241-83be-1f19d43da458" />
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/44b963e4-654d-46c5-bd67-f2736f8100fb" />a
+
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/b6e8a377-b67c-4647-a88c-66d9c77f10a4" />a
+
+<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />a
 
 
 # 4. API libraries
