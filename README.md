@@ -87,13 +87,13 @@ Some important definitions about the Enpower Middleware are:
 
 <p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Data Offering Service</b> : Is the initial entity that is created by a Data Provider, that defines the Content of the Data that will be shared among the Subscribed (to the Data OFfering) Users. The user selects a Data Offering Service Type among the defined Data Offering Service Type Catalogue that is presented on the Middleware. Every Data Provision is under an «umbrella» of a specific Data Offering service.</p>
 
-<p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Subscription</b> : Is an agreement between a Data Provider and one or more Data Consumers regarding a Data Offering Service. A subscription is performed following the sequential steps: </br>
-1. Data Offering Service Discovery by Data Consumer </br>
-2. Subscription Request</br>
-3. Request Response by the Data Provider</br>
+<p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Subscription</b> : Is an agreement between a Data Provider and one or more Data Consumers regarding a Data Offering Service. A subscription is performed following the sequential steps: </br> </p>
+
+1. Data Offering Service Discovery by Data Consumer
+2. Subscription Request
+3. Request Response by the Data Provider
 4. Upon accepting the Subscription is enabled 
   
-</p>
 
 <p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Data Entity</b> : Is every Data file (assigned in the «umbrella» of a Data Offering Service) that is shared by the Data provider with the Subscribed users of this specific Data offering service</p>
 
