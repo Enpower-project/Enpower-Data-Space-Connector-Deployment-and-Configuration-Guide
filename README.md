@@ -137,7 +137,7 @@ The software prerequisites include:
 - Centos 7 or Windows Server Operative System (OS);
 - Docker and docker-compose;
 
-Enpower Connector software and its components will be delivered utilizing the Docker containers of the folder <font color="red">"Enpower Connector Docker Files"</font> of this repository. </br>
+Enpower Connector software and its components will be delivered utilizing the Docker containers of the folder <code style="color : red">"Enpower Connector Docker Files"</code> of this repository. </br>
 
 <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" /> Additionally to those folders and file within the < font color= "red">"Enpower Connector Docker Files"</font> you need to contact and request the mandatory <font color="red">.env</font> file from the European Dynamics. 
 
