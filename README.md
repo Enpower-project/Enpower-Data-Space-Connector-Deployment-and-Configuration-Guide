@@ -131,7 +131,7 @@ The software prerequisites include:
 
 Enpower software and its components will be delivered utilizing the Docker containers functionalities. 
 
-<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/c224d73a-b673-453b-b951-2c3116bbb2e0" />
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/b47b774a-3982-4fd1-9610-c37086bb0caf" />
 
 First, the Docker platform has to be downloaded and installed accordingly to the OS of the server to host the deployment.
 
