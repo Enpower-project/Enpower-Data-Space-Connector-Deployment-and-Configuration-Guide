@@ -82,7 +82,7 @@ The Enpower Middleware is a central Graphical User Interface that operates as th
 Some important definitions about the Enpower Middleware are:
 
 <p align="justify"> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Data Offering Service type</b>: Is a predefined contextual frame that characterizises every data exchange (Data Provision & Consumption) within Enpower Middleware. Every Data Offering service type is followed by three attributes (Generic Category > Sub-category > Specific Business Object) that construct a defined «Topic» that describes the content of the data that will be exchanged.</p>
-<p> align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Data Offering Service</b> : Is the initial entity that is created by a Data Provider, that defines the Content of the Data that will be shared among the Subscribed (to the Data OFfering) Users. The user selects a Data Offering Service Type among the defined Data Offering Service Type Catalogue that is presented on the Middleware. Every Data Provision is under an «umbrella» of a specific Data Offering service.</p>
+<p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Data Offering Service</b> : Is the initial entity that is created by a Data Provider, that defines the Content of the Data that will be shared among the Subscribed (to the Data OFfering) Users. The user selects a Data Offering Service Type among the defined Data Offering Service Type Catalogue that is presented on the Middleware. Every Data Provision is under an «umbrella» of a specific Data Offering service.</p>
 <p align="justify"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/63fb679b-1412-4989-9a79-89b2b8b85354" /><b>   Subscription</b> : Is an agreement between a Data Provider and one or more Data Consumers regarding a Data Offering Service. A subscription is performed following the sequential steps: </p>
    1. Data Offering Service Discovery by Data Consumer </br>
    2. Subscription Request</br>
@@ -131,11 +131,14 @@ The software prerequisites include:
 
 Enpower software and its components will be delivered utilizing the Docker containers functionalities. 
 
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/c7671ff0-2883-4965-8653-9d6dae50d714" />
+
+First, the Docker platform has to be downloaded and installed accordingly to the OS of the server to host the deployment.
+
 
 <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />
 
 
-Firstly, the Docker platform has to be downloaded and installed accordingly to the OS of the server to host the deployment.
 
 
 
