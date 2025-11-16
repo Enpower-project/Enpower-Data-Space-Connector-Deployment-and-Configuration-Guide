@@ -139,23 +139,59 @@ The software prerequisites include:
 
 Enpower Connector software and its components will be delivered utilizing the Docker containers of the folder <code style="color : #FF0000">"Enpower Connector Docker Files"</code> of this repository. </br>
 
-<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" /> Additionally to those folders and file within the <code style="color : #FF0000">"Enpower Connector Docker Files"</code> you need to contact and request the mandatory <code style="color : #FF0000">.env</code> file from the European Dynamics. 
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />   Additionally to those folders and file within the <code style="color : #FF0000">"Enpower Connector Docker Files"</code> you need to contact and request the mandatory <code style="color : #FF0000">.env</code> file from the European Dynamics. 
 
 </br>
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/ceb41791-d6b1-4f1c-ba2f-eff7f5320d8f" />
 
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />   For the scope of the following instructions, we suppose you built a server that runs under the local <code style="color : #FF0000">http://my-local-server</code> and your public domain under <code style="color : #FF0000">https://my-public-domain.com</code> .
 
+</br>
+</br>
 
-First, you need to connect in your local server through the <b>Command Prompt</b>, install Docker and the needed libraries
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/ceb41791-d6b1-4f1c-ba2f-eff7f5320d8f" />   First, you need to connect in your local server through the <b>Command Prompt</b>, install Docker (the Docker application has to be downloaded and installed accordingly to the OS of the server to host the deployment) and the needed libraries as shown below:
+
+</br>
+
+For the Docker
+'''
+$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg
+
+$ sudo yum-config-manager \
+  --add-repo \
+  https://download.docker.com/linux/centos/docker-ce.repo
+
+$ sudo yum install docker-ce docker-ce-cli containerd.io
+$ sudo systemctl start docker
+$ sudo systemctl enable docker
+'''
+Maybe you will need to login to a docker account
+'''
+$ sudo docker login
+$ sudo docker compose up -d
+'''
+
+</br>
+For the needed Libraries
+'''
+$ sudo yum update
+$ sudo yum install ca-certificates
+$ sudo yum install curl
+$ sudo yum install -y yum-utils
+'''
 
 
 
 
 
 either by <b>Filezilla</b> or through the <b>Command Prompt</b>.
-   First, the Docker platform has to be downloaded and installed accordingly to the OS of the server to host the deployment.
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/98bfc605-56a2-49a4-9948-f37e490b7a59" />   You need to upload the appropriate files of the clone the files connect to your local server and upload the files of the folder "Enpower Connector Docker Files" in the repository
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/98bfc605-56a2-49a4-9948-f37e490b7a59" />   You need to upload the appropriate files ("Enpower Connector Docker Files" & .env) either directly through <b>Filezilla</b> or through the <b>Command Prompt</b>. 
+You can directly upload the folders&files or clone the folders&files of "Enpower Connector Docker Files":
+
+'''
+
+'''
 
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/3c92f612-98f9-4910-8628-28e2185159d7" />a
