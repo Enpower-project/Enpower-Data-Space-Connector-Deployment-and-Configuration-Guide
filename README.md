@@ -153,7 +153,8 @@ Enpower Connector software and its components will be delivered utilizing the Do
 </br>
 
 For the Docker
-'''
+
+```
 $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg
 
 $ sudo yum-config-manager \
@@ -163,21 +164,24 @@ $ sudo yum-config-manager \
 $ sudo yum install docker-ce docker-ce-cli containerd.io
 $ sudo systemctl start docker
 $ sudo systemctl enable docker
-'''
+```
+
 Maybe you will need to login to a docker account
-'''
+
+```
 $ sudo docker login
 $ sudo docker compose up -d
-'''
+```
 
 </br>
 For the needed Libraries
-'''
+
+```
 $ sudo yum update
-$ sudo yum install ca-certificates
+$``` sudo yum install ca-certificates
 $ sudo yum install curl
 $ sudo yum install -y yum-utils
-'''
+```
 
 
 
@@ -189,9 +193,9 @@ either by <b>Filezilla</b> or through the <b>Command Prompt</b>.
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/98bfc605-56a2-49a4-9948-f37e490b7a59" />   You need to upload the appropriate files ("Enpower Connector Docker Files" & .env) either directly through <b>Filezilla</b> or through the <b>Command Prompt</b>. 
 You can directly upload the folders&files or clone the folders&files of "Enpower Connector Docker Files":
 
-'''
+```
 
-'''
+```
 
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/3c92f612-98f9-4910-8628-28e2185159d7" />a
