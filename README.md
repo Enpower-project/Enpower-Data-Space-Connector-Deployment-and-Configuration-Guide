@@ -6,7 +6,7 @@
 These spaces are designed to allow businesses, organizations, and citizens to share and access data in a way that respects privacy, security, and European laws, while enabling innovation and cross-sector collaboration. 
 The goal is to create a trusted, common market/ network for data where organizations retain control over their own data. </p>
 
-<p align="justify">The IDSA initiative introduces the Data Space Protocol that defines the concept, structure, components the principles that should characterize European Data spaces [IDSA documentation](https://internationaldataspaces.org/) .
+<p align="justify">The IDSA initiative introduces the Data Space Protocol that defines the concept, structure, components the principles that should characterize European Data spaces [IDSA documentation](https://internationaldataspaces.org/) . </p>
 
 ## 1.1 IDSA protocol core components
 <p align="justify">The Data Space structure omprises of two main components: Control Plane and Data Plane, each playing a crucial role in data management and
