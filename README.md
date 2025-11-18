@@ -108,7 +108,7 @@ Some important definitions about the Enpower Middleware are:
 
 The Enpower Middleware can be found in: [Enpower Middleware](https://enpower.eurodyn.com/)
 
-A demo presentation of the functionality of the Enpower Middleware is accessed in: [Enpower Middleware Demo]()
+A demo presentation of the functionality of the Enpower Middleware is accessed in: [Enpower Middleware Demo](https://epuntuagr.sharepoint.com/:f:/r/sites/ENPOWERconsortium/Document%20Library/4-Other%20Material/TRUE%20Connector%20Short%20Demo%20of%20Installation%20%26%20Walkthrough?csf=1&web=1&e=KgwXdo)
 
 ## 2.2 Enpower Connector (IDSA Data Plane)
 
