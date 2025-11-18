@@ -55,6 +55,8 @@ The list of key features and principles of a common European data space, are:
 - Data Markets
 
 <b>Following the Data Space Protocol it is possible to deploy private Data Spaces that can be used for private or public projects such as Enpower</b>
+
+</br>
 </br>
 
 # 2. Data Space within Enpower
@@ -69,6 +71,7 @@ Data consumers have the capability, to participate, search, discover and request
 Additionally the data access policy and rules within Enpower Data Space are implemented through a traditional Subscription system routine that includes the Data exchange Subscription request from the Data Consumer and the Data exchange Subscription response from the Daata Provider. </p>
 
 <b>The Core components that compose the Enpower Data Space ecosystem is the Middleware and the Connector. </b>
+
 </br>
 
 ## 2.1 Enpower Middleware (IDSA Control Plane)
@@ -114,6 +117,7 @@ Some important definitions about the Enpower Middleware are:
 The Enpower Middleware can be found in: [Enpower Middleware](https://enpower.eurodyn.com/)
 
 A demo presentation of the functionality of the Enpower Middleware is accessed in: [Enpower Middleware Demo](https://epuntuagr.sharepoint.com/:f:/r/sites/ENPOWERconsortium/Document%20Library/4-Other%20Material/TRUE%20Connector%20Short%20Demo%20of%20Installation%20%26%20Walkthrough?csf=1&web=1&e=KgwXdo)
+
 </br>
 
 ## 2.2 Enpower Connector (IDSA Data Plane)
@@ -126,6 +130,8 @@ A key benefit of this approach is the decentralization that enables data soverei
 <b>Simply, Enpower Connector a dockerized piece of software that operates as a node the enables the distributed data exchange within the Data Space on behalf of a user. This dockerized software can be deployed locally in a server from any user that wants to connect to the Enpower Data Space ecosystem. </b>
 
 The Deployment and the Configuration of the Enpower Connector is described in the process below:
+
+</br>
 </br>
 
 # 3. Deployment and Configuration of the Enpower Connector Guide
