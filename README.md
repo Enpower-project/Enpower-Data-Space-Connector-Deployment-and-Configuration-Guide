@@ -8,6 +8,7 @@ The goal is to create a trusted, common market/ network for data where organizat
 
 The IDSA initiative introduces the Data Space Protocol that defines the concept, structure, components the principles that should characterize European Data spaces : [IDSA documentation](https://internationaldataspaces.org/) 
 </br>
+
 ## 1.1 IDSA protocol core components
 <p align="justify">The Data Space structure omprises of two main components: Control Plane and Data Plane, each playing a crucial role in data management and
 exchange </p>
@@ -23,6 +24,7 @@ protocols like HTTP, to suit specific use cases. This plane manages the practica
 data transfer once policies are negotiated.
 </p>
 </br>
+
 ## 1.2 IDSA protocol core goals
 
 The list of business goals, concepts and technologies that are involved within the IDSA Data Space
@@ -40,6 +42,7 @@ are the:
 - General Data Protection Regulation and
 - the Data Economy and Privacy in the connected world.
 </br>
+
 ## 1.3 IDSA key features and principles
 
 The list of key features and principles of a common European data space, are: 
@@ -51,8 +54,8 @@ The list of key features and principles of a common European data space, are:
 - Data Markets
 
 <b>Following the Data Space Protocol it is possible to deploy private Data Spaces that can be used for private or public projects such as Enpower</b>
-
 </br>
+
 # 2. Data Space within Enpower
 
 <p align="justify">Enpower Data Space aims to create a secure and privacy-preserving infrastructure to pool, access, share, process and use data. 
@@ -66,6 +69,7 @@ Additionally the data access policy and rules within Enpower Data Space are impl
 
 <b>The Core components that compose the Enpower Data Space ecosystem is the Middleware and the Connector. </b>
 </br>
+
 ## 2.1 Enpower Middleware (IDSA Control Plane)
 
 The Enpower Middleware is a central Graphical User Interface that operates as the Control Plane component that aims to configures and coordinates the Data Space organizations and Connectors and set the ground rules of the Data Access control and restrictions. The core functionalities of the Enpower Middleware are the following:
@@ -110,6 +114,7 @@ The Enpower Middleware can be found in: [Enpower Middleware](https://enpower.eur
 
 A demo presentation of the functionality of the Enpower Middleware is accessed in: [Enpower Middleware Demo](https://epuntuagr.sharepoint.com/:f:/r/sites/ENPOWERconsortium/Document%20Library/4-Other%20Material/TRUE%20Connector%20Short%20Demo%20of%20Installation%20%26%20Walkthrough?csf=1&web=1&e=KgwXdo)
 </br>
+
 ## 2.2 Enpower Connector (IDSA Data Plane)
 
 The Connector is a complex structure composed of several key elements, including one or more
@@ -121,6 +126,7 @@ A key benefit of this approach is the decentralization that enables data soverei
 
 The Deployment and the Configuration of the Enpower Connector is described in the process below:
 </br>
+
 # 3. Deployment and Configuration of the Enpower Connector Guide
 
 ## 3.1 Prerequisites 
