@@ -176,7 +176,6 @@ cd /enpower-connector/Enpower Connector Docker Files
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/98bfc605-56a2-49a4-9948-f37e490b7a59" />   You need to connect in your local server through the <b>Command Prompt</b>, install Docker (the Docker application has to be downloaded and installed accordingly to the OS of the server to host the deployment) and the needed libraries as shown below:
 
-</br>
 For the needed Libraries
 
 ```
@@ -185,7 +184,6 @@ $ sudo yum install ca-certificates
 $ sudo yum install curl
 $ sudo yum install -y yum-utils
 ```
-</br>
 
 For the Docker
 
@@ -207,15 +205,6 @@ Maybe you will need to login to a docker account
 $ sudo docker login
 $ sudo docker compose up -d
 ```
-
-
-
-
-
-
-
-
-
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/3c92f612-98f9-4910-8628-28e2185159d7" />a
 
