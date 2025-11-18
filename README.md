@@ -272,7 +272,6 @@ If you use any different domain naming conventions or internal network structure
 
 <img width="859" height="458" alt="image" src="https://github.com/user-attachments/assets/a8aac87d-cb99-438f-85ce-8528519f1d81" />
 
-
 </br>
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/81547cb2-3aea-48d5-83a2-15affd6fc9e8" /> The final step of the configuration if to set the Connector settings within the Enpower Middleware's "Connector Settings" page, in order to be configured within the Data space as shown below:
