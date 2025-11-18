@@ -275,12 +275,16 @@ If you use any different domain naming conventions or internal network structure
 
 </br>
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/81547cb2-3aea-48d5-83a2-15affd6fc9e8" /> The final step of the configuration 
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/81547cb2-3aea-48d5-83a2-15affd6fc9e8" /> The final step of the configuration if to set the Connector settings within the Enpower Middleware's "Connector Settings" page, in order to be configured within the Data space as shown below:
+
+* Local API   : You need to use on the Middleware UI, this URL : https://enpower-localapi.my-public-domain.com/api
+* ECC URL     : You need to use on the Middleware UI, this URL : https://enpower-ecc.my-public-domain.com/data
+* Broker URL  : You just need to use on the Middleware UI, this local URL:  http://my-local-server:1026
+* Data APP    : You just need to use on the Middleware UI, this local URL:  https://be-dataapp-provider:8083
+
+<img width="959" height="603" alt="Connectors Settings_" src="https://github.com/user-attachments/assets/c6b322e5-6e59-4c4b-9158-23a642393f3d" />
 
 </br>
-
-<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />a
-
-
+</br>
 
 # 4. API libraries
