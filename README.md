@@ -20,8 +20,8 @@ exchange </p>
   - Contract Negotiation: Allows data providers to set or negotiate terms of data usage.
   - Data plane configuration and coordination.
   
-- <b>Data Plane</b>: <p align="justify">Handles the actual data transfer, implementing various communication protocols like HTTP, to suit specific use cases. This plane manages the practical aspects of data transfer once policies are negotiated.
-</p>
+- <p align="justify"><b>Data Plane</b>: Handles the actual data transfer, implementing various communication protocols like HTTP, to suit specific use cases. This plane manages the practical aspects of data transfer once policies are negotiated.</p>
+
 </br>
 
 ## 1.2 IDSA protocol core goals
@@ -292,13 +292,13 @@ If you use any different domain naming conventions or internal network structure
 
 # 4. API libraries
 
-<p align="justify">The API tools/Commands can be used as an alternative for the actions that can be performed within the Enpower Middleware. These can be used for the programmatical exploitation of and integration with the Enpower Middleware with an external application. 
+<p align="justify">The API tools/Commands can be used as an alternative for the actions that can be performed within the Enpower Middleware. These can be used for the programmatical exploitation of and integration with the Enpower Middleware with an external application. </p>
 
 The user can have access in the API tools through the URL:
 
 <code style="color : #FF0000">http://my-local-server.com</code> <code style="color : #FF0000">:30001/api/swagger-ui/index.html?configUrl=/api/v3/api-docs/swagger-config#/</code>
   
-The functionalities that can be executed through the API libraries include, the user Log In & Authorization, the owned Data Offering List, Data Provision & Data Consumption, as shown in the following image. Some extra functionalities are he Data Offering Service Discovery (Data Offering Service Catalogue list), Data Offering Service Subscription requests and Data Offering Service Subscription responses.</p>
+<p align="justify">The functionalities that can be executed through the API libraries include, the user Log In & Authorization, the owned Data Offering List, Data Provision & Data Consumption, as shown in the following image. Some extra functionalities are he Data Offering Service Discovery (Data Offering Service Catalogue list), Data Offering Service Subscription requests and Data Offering Service Subscription responses.</p>
 
 
 <img width="1461" height="1328" alt="swaggerUI12" src="https://github.com/user-attachments/assets/797abc2b-f828-4a59-b0aa-0cf7bfaf1ff7" />
