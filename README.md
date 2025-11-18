@@ -161,7 +161,18 @@ Enpower Connector software and its components will be delivered utilizing the Do
 
 </br>
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/ceb41791-d6b1-4f1c-ba2f-eff7f5320d8f" />   First, you need to connect in your local server through the <b>Command Prompt</b>, install Docker (the Docker application has to be downloaded and installed accordingly to the OS of the server to host the deployment) and the needed libraries as shown below:
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/ceb41791-d6b1-4f1c-ba2f-eff7f5320d8f" /> You need to upload the appropriate files ("Enpower Connector Docker Files" & .env) either directly through <b>Filezilla</b> or through the <b>Command Prompt</b>. 
+You can directly upload the folders&files or clone the folders&files of "Enpower Connector Docker Files":
+
+```
+cd /enpower-connector/
+git clone https://github.com/Enpower-project/Enpower-Data-Space-Connector-Deployment-and-Configuration-Guide.git
+cd /enpower-connector/Enpower Connector Docker Files
+```
+
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />   In this stage you need to make sure to put the <code style="color : #FF0000">.env</code> file (from the European Dynamics) in that folder. 
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/98bfc605-56a2-49a4-9948-f37e490b7a59" />   You need to connect in your local server through the <b>Command Prompt</b>, install Docker (the Docker application has to be downloaded and installed accordingly to the OS of the server to host the deployment) and the needed libraries as shown below:
 
 </br>
 
@@ -203,12 +214,10 @@ $ sudo yum install -y yum-utils
 either by <b>Filezilla</b> or through the <b>Command Prompt</b>.
 
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/98bfc605-56a2-49a4-9948-f37e490b7a59" />   You need to upload the appropriate files ("Enpower Connector Docker Files" & .env) either directly through <b>Filezilla</b> or through the <b>Command Prompt</b>. 
+   You need to upload the appropriate files ("Enpower Connector Docker Files" & .env) either directly through <b>Filezilla</b> or through the <b>Command Prompt</b>. 
 You can directly upload the folders&files or clone the folders&files of "Enpower Connector Docker Files":
 
-```
 
-```
 
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/3c92f612-98f9-4910-8628-28e2185159d7" />a
