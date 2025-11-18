@@ -208,7 +208,7 @@ $ sudo docker compose up -d
 
 </br>
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4561eec8-c259-4404-8e81-4c2dbecf6707" /> Completing this step you are an inactive part of the Enpower Data Space. In order to be an active part of the Data space that can exchange data with the other users, you should define the appropriate ports of the Connector and register them through the Middleware to the Data Space. 
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/4561eec8-c259-4404-8e81-4c2dbecf6707" /> Completing this step you are an inactive part of the Enpower Data Space. In order to be an active part of the Data space that can exchange data with the other users, you should define the appropriate ports of the Connector and register them through the Middleware to the Data Space. 
 
 The next steps are responsible to configure the deployed Connector, in a way that will be able to communicate with the rest Connectors and will be integrated in the Enpower Middleware.
 
@@ -216,7 +216,7 @@ The next steps are responsible to configure the deployed Connector, in a way tha
 
 ## 3.3 Configuration of the Connector
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/488642d8-bfea-4559-ab01-982a1881d45d" /> This step aims to open the appropriate ports in order to make the connector able to reach and be reached by the other connectors in order to share data. Specifically you need to define and expose (make https:// some of them) following URLs:
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/488642d8-bfea-4559-ab01-982a1881d45d" /> This step aims to open the appropriate ports in order to make the connector able to reach and be reached by the other connectors in order to share data. Specifically you need to define and expose (make https:// some of them) following URLs:
 
 * <b>Local API</b>
 
@@ -228,11 +228,15 @@ For the Local API URL, you should expose port <code style="color : #FF0000">:300
 It is very important to expose this port to an https domain, using your F5 configuration or a reverse proxy.
 
 * <b>ECC URL</b>
+
 For the ECC URL, you should expose port <code style="color : #FF0000">:8889</code> of the local server to an https domain . For example you can expose it as below:
 
 <code style="color : #FF0000">https://enpower-ecc.my-public-domain.com</code>  ➡️ <code style="color : #FF0000">http://my-local-server:8889</code>
 
 It is very important to expose this port to an https domain, using your F5 configuration or a reverse proxy. 
+
+
+
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/7e6e96ec-53c5-4ab6-9121-279941d69173" />a
 
