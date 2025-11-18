@@ -224,7 +224,7 @@ The next steps are responsible to configure the deployed Connector, in a way tha
 
 Data App Must Be Publicly Exposed In A Static Ip Via Https, before saved on the connection settings. This happens because Data App is served as an endpoint for peer to peer file transfer between you and other Enpower users. For the Local API URL, you should expose port <code style="color : #FF0000">:30001</code> of the local server to an https domain. For example, I would expose it as below:
 
-<code style="color : #FF0000">https://enpower-localapi.my-public-domain.com</code> ➡️ <code style="color : #FF0000">http://my-local-server:30001
+<code style="color : #FF0000">https://enpower-localapi.my-public-domain.com</code> ➡️ <code style="color : #FF0000">http://my-local-server.com:30001
 </code>
 
 It is very important to expose this port to an https domain, using your F5 configuration or a reverse proxy.
@@ -235,7 +235,7 @@ It is very important to expose this port to an https domain, using your F5 confi
 
 Ecc Url Must Be Publicly Exposed In A Static Ip Via Https, before saved on the connection settings. This happens because Ecc Url is served as an endpoint for peer to peer file transfer between you and other Enpower users. For the ECC URL, you should expose port <code style="color : #FF0000">:8889</code> of the local server to an https domain. For example you can expose it as below:
 
-<code style="color : #FF0000">https://enpower-ecc.my-public-domain.com</code>  ➡️ <code style="color : #FF0000">http://my-local-server:8889</code>
+<code style="color : #FF0000">https://enpower-ecc.my-public-domain.com</code>  ➡️ <code style="color : #FF0000">http://my-local-server.com:8889</code>
 
 It is very important to expose this port to an https domain, using your F5 configuration or a reverse proxy. 
 
@@ -243,7 +243,7 @@ It is very important to expose this port to an https domain, using your F5 confi
 
 * <b>Broker Url:</b>
 
-You do not need to expose this. You just need to use on the Middleware UI, this local URL:  <code style="color : #FF0000">http://my-local-server:1026</code>
+You do not need to expose this. You just need to use on the Middleware UI, this local URL:  <code style="color : #FF0000">http://my-local-server.com:1026</code>
 
 </br>
 
@@ -279,7 +279,7 @@ If you use any different domain naming conventions or internal network structure
 
 * Local API   : You need to use on the Middleware UI, this URL : https://enpower-localapi.my-public-domain.com/api
 * ECC URL     : You need to use on the Middleware UI, this URL : https://enpower-ecc.my-public-domain.com/data
-* Broker URL  : You just need to use on the Middleware UI, this local URL:  http://my-local-server:1026
+* Broker URL  : You just need to use on the Middleware UI, this local URL:  http://my-local-server.com:1026
 * Data APP    : You just need to use on the Middleware UI, this local URL:  https://be-dataapp-provider:8083
 
 <img width="959" height="603" alt="Connectors Settings_" src="https://github.com/user-attachments/assets/c6b322e5-6e59-4c4b-9158-23a642393f3d" />
@@ -288,3 +288,17 @@ If you use any different domain naming conventions or internal network structure
 </br>
 
 # 4. API libraries
+
+<p align="justify">The API tools/Commands can be used as an alternative for the actions that can be performed within the Enpower Middleware. These can be used for the programmatical exploitation of and integration with the Enpower Middleware with an external application. 
+
+The user can have access in the API tools through the URL:
+
+<code style="color : #FF0000">http://my-local-server.com</code> <code style="color : #FF0000">:30001/api/swagger-ui/index.html?configUrl=/api/v3/api-docs/swagger-config#/</code>
+  
+The functionalities that can be executed through the API libraries include, the user Log In & Authorization, the owned Data Offering List, Data Provision & Data Consumption, as shown in the following image. Some extra functionalities are he Data Offering Service Discovery (Data Offering Service Catalogue list), Data Offering Service Subscription requests and Data Offering Service Subscription responses.</p>
+
+
+<img width="1901" height="1328" alt="swaggerUI1" src="https://github.com/user-attachments/assets/ec62eac3-224d-459d-bae6-82d60dfb2343" />
+
+
+
