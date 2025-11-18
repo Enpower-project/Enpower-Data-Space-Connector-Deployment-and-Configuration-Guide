@@ -6,7 +6,7 @@
 These spaces are designed to allow businesses, organizations, and citizens to share and access data in a way that respects privacy, security, and European laws, while enabling innovation and cross-sector collaboration. 
 The goal is to create a trusted, common market/ network for data where organizations retain control over their own data. </p>
 
-<p align="justify">The IDSA initiative introduces the Data Space Protocol that defines the concept, structure, components the principles that should characterize European Data spaces [IDSA documentation](https://internationaldataspaces.org/) . </p>
+<p align="justify">The IDSA initiative introduces the Data Space Protocol that defines the concept, structure, components the principles that should characterize European Data spaces :</p>  [IDSA documentation](https://internationaldataspaces.org/) 
 
 ## 1.1 IDSA protocol core components
 <p align="justify">The Data Space structure omprises of two main components: Control Plane and Data Plane, each playing a crucial role in data management and
@@ -123,7 +123,7 @@ The Deployment and the Configuration of the Enpower Connector is described in th
 
 # 3. Deployment and Configuration of the Enpower Connector Guide
 
-## 3.1 Prerequisites and Installation
+## 3.1 Prerequisites 
 
 The hardware and operating system prerequisites are:
 
@@ -141,6 +141,8 @@ Enpower Connector software and its components will be delivered utilizing the Do
 <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />   Additionally to those folders and file within the <code style="color : #FF0000">"Enpower Connector Docker Files"</code> you need to contact and request the mandatory <code style="color : #FF0000">.env</code> file from the European Dynamics. 
 
 </br>
+
+## 2.2 Deployment of the Enpower Connector
 
 <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />   For the scope of the following instructions, we suppose you built a server that runs under the local <code style="color : #FF0000">http://my-local-server</code> and your public domain under <code style="color : #FF0000">https://my-public-domain.com</code> .
 
