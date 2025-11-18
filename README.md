@@ -222,7 +222,7 @@ The next steps are responsible to configure the deployed Connector, in a way tha
 
 * <b>Local API:</b>
 
-For the Local API URL, you should expose port <code style="color : #FF0000">:30001</code> of the local server to an https domain. For example, I would expose it as below:
+Data App Must Be Publicly Exposed In A Static Ip Via Https, before saved on the connection settings. This happens because Data App is served as an endpoint for peer to peer file transfer between you and other Enpower users. For the Local API URL, you should expose port <code style="color : #FF0000">:30001</code> of the local server to an https domain. For example, I would expose it as below:
 
 <code style="color : #FF0000">https://enpower-localapi.my-public-domain.com</code> ➡️ <code style="color : #FF0000">http://my-local-server:30001
 </code>
@@ -233,7 +233,7 @@ It is very important to expose this port to an https domain, using your F5 confi
 
 * <b>ECC URL:</b>
 
-For the ECC URL, you should expose port <code style="color : #FF0000">:8889</code> of the local server to an https domain . For example you can expose it as below:
+Ecc Url Must Be Publicly Exposed In A Static Ip Via Https, before saved on the connection settings. This happens because Ecc Url is served as an endpoint for peer to peer file transfer between you and other Enpower users. For the ECC URL, you should expose port <code style="color : #FF0000">:8889</code> of the local server to an https domain. For example you can expose it as below:
 
 <code style="color : #FF0000">https://enpower-ecc.my-public-domain.com</code>  ➡️ <code style="color : #FF0000">http://my-local-server:8889</code>
 
@@ -262,19 +262,25 @@ Please ensure that:
 
 If you use any different domain naming conventions or internal network structures, simply maintain the same logical mapping between your local URLs and public URLs.
 
+</br>
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/7e6e96ec-53c5-4ab6-9121-279941d69173" />a
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/0f593396-f1d0-463e-b570-7a991a55af61" /> In this stage you should request from ED the creation of users and the provision of the corresponding credentials.
+
+</br>
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/9e3b8c52-916d-49f7-aaa3-185665120868" /> After that you need to Log In to the Middleware and we recommend you to navigate to its functionality.
+
+<img width="859" height="458" alt="image" src="https://github.com/user-attachments/assets/a8aac87d-cb99-438f-85ce-8528519f1d81" />
 
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/829c5cfe-f828-4129-b245-7bd9af64247a" />a
+</br>
 
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/81547cb2-3aea-48d5-83a2-15affd6fc9e8" /> The final step of the configuration 
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/44b963e4-654d-46c5-bd67-f2736f8100fb" />a
-
-
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/b6e8a377-b67c-4647-a88c-66d9c77f10a4" />a
+</br>
 
 <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />a
+
 
 
 # 4. API libraries
