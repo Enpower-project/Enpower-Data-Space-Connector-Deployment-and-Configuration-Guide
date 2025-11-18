@@ -298,7 +298,29 @@ The user can have access in the API tools through the URL:
 The functionalities that can be executed through the API libraries include, the user Log In & Authorization, the owned Data Offering List, Data Provision & Data Consumption, as shown in the following image. Some extra functionalities are he Data Offering Service Discovery (Data Offering Service Catalogue list), Data Offering Service Subscription requests and Data Offering Service Subscription responses.</p>
 
 
-<img width="1901" height="1328" alt="swaggerUI1" src="https://github.com/user-attachments/assets/ec62eac3-224d-459d-bae6-82d60dfb2343" />
+<img width="1461" height="1328" alt="swaggerUI12" src="https://github.com/user-attachments/assets/797abc2b-f828-4a59-b0aa-0cf7bfaf1ff7" />
+
+</br>
+
+## 4.1 User Login & Authorization
 
 
 
+
+</br>
+
+## 4.2 My Data Offerings List 
+
+
+
+
+</br>
+
+## 4.3 Data Provide 
+
+
+
+
+</br>
+
+## 4.4 Data Consume
