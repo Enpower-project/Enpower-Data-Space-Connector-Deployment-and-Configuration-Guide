@@ -251,6 +251,8 @@ You do not need to expose this. You just need to use on the Middleware UI, this 
 
 You do not need to expose this. You just need to use on the Middleware UI, this local URL:  <code style="color : #FF0000">https://be-dataapp-provider:8083</code>
 
+</br>
+</br>
 
 Please ensure that:
 
@@ -275,6 +277,8 @@ If you use any different domain naming conventions or internal network structure
 </br>
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/81547cb2-3aea-48d5-83a2-15affd6fc9e8" /> The final step of the configuration if to set the Connector settings within the Enpower Middleware's "Connector Settings" page, in order to be configured within the Data space as shown below:
+
+</br>
 
 * Local API   : You need to use on the Middleware UI, this URL : https://enpower-localapi.my-public-domain.com/api
 * ECC URL     : You need to use on the Middleware UI, this URL : https://enpower-ecc.my-public-domain.com/data
