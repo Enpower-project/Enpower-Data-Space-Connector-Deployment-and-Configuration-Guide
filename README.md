@@ -218,6 +218,8 @@ The next steps are responsible to configure the deployed Connector, in a way tha
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/488642d8-bfea-4559-ab01-982a1881d45d" /> This step aims to open the appropriate ports in order to make the connector able to reach and be reached by the other connectors in order to share data. Specifically you need to define and expose (make https:// some of them) following URLs:
 
+</br>
+
 * <b>Local API:</b>
 
 For the Local API URL, you should expose port <code style="color : #FF0000">:30001</code> of the local server to an https domain. For example, I would expose it as below:
@@ -227,6 +229,8 @@ For the Local API URL, you should expose port <code style="color : #FF0000">:300
 
 It is very important to expose this port to an https domain, using your F5 configuration or a reverse proxy.
 
+</br>
+
 * <b>ECC URL:</b>
 
 For the ECC URL, you should expose port <code style="color : #FF0000">:8889</code> of the local server to an https domain . For example you can expose it as below:
@@ -235,10 +239,13 @@ For the ECC URL, you should expose port <code style="color : #FF0000">:8889</cod
 
 It is very important to expose this port to an https domain, using your F5 configuration or a reverse proxy. 
 
+</br>
+
 * <b>Broker Url:</b>
 
 You do not need to expose this. You just need to use on the Middleware UI, this local URL:  <code style="color : #FF0000">http://my-local-server:1026</code>
 
+</br>
 
 * <b>Data APP:</b>
 
