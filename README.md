@@ -7,7 +7,7 @@ These spaces are designed to allow businesses, organizations, and citizens to sh
 The goal is to create a trusted, common market/ network for data where organizations retain control over their own data. </p>
 
 The IDSA initiative introduces the Data Space Protocol that defines the concept, structure, components the principles that should characterize European Data spaces : [IDSA documentation](https://internationaldataspaces.org/) 
-
+</br>
 ## 1.1 IDSA protocol core components
 <p align="justify">The Data Space structure omprises of two main components: Control Plane and Data Plane, each playing a crucial role in data management and
 exchange </p>
@@ -22,7 +22,7 @@ exchange </p>
 protocols like HTTP, to suit specific use cases. This plane manages the practical aspects of
 data transfer once policies are negotiated.
 </p>
-  
+</br>
 ## 1.2 IDSA protocol core goals
 
 The list of business goals, concepts and technologies that are involved within the IDSA Data Space
@@ -39,7 +39,7 @@ are the:
 - Federated frameworks for data sharing agreements and terms of use,
 - General Data Protection Regulation and
 - the Data Economy and Privacy in the connected world.
-
+</br>
 ## 1.3 IDSA key features and principles
 
 The list of key features and principles of a common European data space, are: 
@@ -52,7 +52,7 @@ The list of key features and principles of a common European data space, are:
 
 <b>Following the Data Space Protocol it is possible to deploy private Data Spaces that can be used for private or public projects such as Enpower</b>
 
-
+</br>
 # 2. Data Space within Enpower
 
 <p align="justify">Enpower Data Space aims to create a secure and privacy-preserving infrastructure to pool, access, share, process and use data. 
@@ -65,7 +65,7 @@ Data consumers have the capability, to participate, search, discover and request
 Additionally the data access policy and rules within Enpower Data Space are implemented through a traditional Subscription system routine that includes the Data exchange Subscription request from the Data Consumer and the Data exchange Subscription response from the Daata Provider. </p>
 
 <b>The Core components that compose the Enpower Data Space ecosystem is the Middleware and the Connector. </b>
-
+</br>
 ## 2.1 Enpower Middleware (IDSA Control Plane)
 
 The Enpower Middleware is a central Graphical User Interface that operates as the Control Plane component that aims to configures and coordinates the Data Space organizations and Connectors and set the ground rules of the Data Access control and restrictions. The core functionalities of the Enpower Middleware are the following:
@@ -109,7 +109,7 @@ Some important definitions about the Enpower Middleware are:
 The Enpower Middleware can be found in: [Enpower Middleware](https://enpower.eurodyn.com/)
 
 A demo presentation of the functionality of the Enpower Middleware is accessed in: [Enpower Middleware Demo](https://epuntuagr.sharepoint.com/:f:/r/sites/ENPOWERconsortium/Document%20Library/4-Other%20Material/TRUE%20Connector%20Short%20Demo%20of%20Installation%20%26%20Walkthrough?csf=1&web=1&e=KgwXdo)
-
+</br>
 ## 2.2 Enpower Connector (IDSA Data Plane)
 
 The Connector is a complex structure composed of several key elements, including one or more
@@ -120,7 +120,7 @@ A key benefit of this approach is the decentralization that enables data soverei
 <b>Simply, Enpower Connector a dockerized piece of software that operates as a node the enables the distributed data exchange within the Data Space on behalf of a user. This dockerized software can be deployed locally in a server from any user that wants to connect to the Enpower Data Space ecosystem. </b>
 
 The Deployment and the Configuration of the Enpower Connector is described in the process below:
-
+</br>
 # 3. Deployment and Configuration of the Enpower Connector Guide
 
 ## 3.1 Prerequisites 
@@ -142,11 +142,10 @@ Enpower Connector software and its components will be delivered utilizing the Do
 
 </br>
 
-## 2.2 Deployment of the Enpower Connector
+## 3.2 Deployment of the Enpower Connector
 
 <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/637a0907-246e-4300-be84-1d6136feb794" />   For the scope of the following instructions, we suppose you built a server that runs under the local <code style="color : #FF0000">http://my-local-server</code> and your public domain under <code style="color : #FF0000">https://my-public-domain.com</code> .
 
-</br>
 </br>
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/ceb41791-d6b1-4f1c-ba2f-eff7f5320d8f" />   First, you need to connect in your local server through the <b>Command Prompt</b>, install Docker (the Docker application has to be downloaded and installed accordingly to the OS of the server to host the deployment) and the needed libraries as shown below:
