@@ -300,28 +300,38 @@ The user can have access in the API tools through the URL:
   
 <p align="justify">The functionalities that can be executed through the API libraries include, the user Log In & Authorization, the owned Data Offering List, Data Provision & Data Consumption, as shown in the following image. Some extra functionalities are he Data Offering Service Discovery (Data Offering Service Catalogue list), Data Offering Service Subscription requests and Data Offering Service Subscription responses.</p>
 
-
-<img width="1461" height="1328" alt="swaggerUI12" src="https://github.com/user-attachments/assets/797abc2b-f828-4a59-b0aa-0cf7bfaf1ff7" />
+<img width="1901" height="1145" alt="Swagger finished" src="https://github.com/user-attachments/assets/7bb13e02-a27c-44ed-b19b-13adb65be814" />
 
 </br>
 
 ## 4.1 User Login & Authorization
+In this stage the user posts its credentials and the system returns back an Authorization token.
 
+<img width="1352" height="637" alt="Log In   Authenticate Parameters" src="https://github.com/user-attachments/assets/ac5ad3bb-9145-44a9-8de7-ad6d0a2c6d87" />
 
+The user copies the Token within the "Access token" field
 
+<img width="1582" height="597" alt="image" src="https://github.com/user-attachments/assets/4fc26810-630a-44ff-b0b1-f7ecf3003c5c" />
+
+and proceeds to the Authorization as shown below:
+
+<img width="1360" height="702" alt="Authorize" src="https://github.com/user-attachments/assets/ceb48926-73d5-419b-8c59-4eed0adb34a6" />
 
 </br>
 
 ## 4.2 My Data Offerings List 
 
+The user can retrieve the list of the Data Offerings services that have created through the corresponding API:
 
+<img width="1371" height="622" alt="My offered services" src="https://github.com/user-attachments/assets/b1ad4ac5-19e1-48f4-8a43-9094b6b720c8" />
 
+The user can use the ID of a Dta Offering service in order to Provide Data to all the Subsribed users to it.
 
 </br>
 
 ## 4.3 Data Provide 
 
-
+In order to provide data the user 
 
 
 </br>
