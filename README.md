@@ -218,7 +218,7 @@ The next steps are responsible to configure the deployed Connector, in a way tha
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/488642d8-bfea-4559-ab01-982a1881d45d" /> This step aims to open the appropriate ports in order to make the connector able to reach and be reached by the other connectors in order to share data. Specifically you need to define and expose (make https:// some of them) following URLs:
 
-* <b>Local API</b>
+* <b>Local API:</b>
 
 For the Local API URL, you should expose port <code style="color : #FF0000">:30001</code> of the local server to an https domain. For example, I would expose it as below:
 
@@ -227,7 +227,7 @@ For the Local API URL, you should expose port <code style="color : #FF0000">:300
 
 It is very important to expose this port to an https domain, using your F5 configuration or a reverse proxy.
 
-* <b>ECC URL</b>
+* <b>ECC URL:</b>
 
 For the ECC URL, you should expose port <code style="color : #FF0000">:8889</code> of the local server to an https domain . For example you can expose it as below:
 
@@ -235,7 +235,25 @@ For the ECC URL, you should expose port <code style="color : #FF0000">:8889</cod
 
 It is very important to expose this port to an https domain, using your F5 configuration or a reverse proxy. 
 
+* <b>Broker Url:</b>
 
+You do not need to expose this. You just need to use on the Middleware UI, this local URL:  <code style="color : #FF0000">http://my-local-server:1026</code>
+
+
+* <b>Data APP:</b>
+
+You do not need to expose this. You just need to use on the Middleware UI, this local URL:  <code style="color : #FF0000">https://be-dataapp-provider:8083</code>
+
+
+Please ensure that:
+
+1. Each URL is correctly mapped through your F5 or reverse proxy.
+2. Regarding the URLs that need to be exposed, you can use NGINX. If this does not work please make a question to your IT responsible for networks.
+3. All public URLs use HTTPS for secure external access.
+4. The local ports (8889, 1026, 30001) are exposed from your Docker containers and reachable by the proxy.
+5. DNS entries for your public domains are properly configured to route traffic to your exposed endpoints.
+
+If you use any different domain naming conventions or internal network structures, simply maintain the same logical mapping between your local URLs and public URLs.
 
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/7e6e96ec-53c5-4ab6-9121-279941d69173" />a
