@@ -289,6 +289,7 @@ If you use any different domain naming conventions or internal network structure
 
 </br>
 </br>
+</br>
 
 # 4. API libraries
 
@@ -300,40 +301,64 @@ The user can have access in the API tools through the URL:
   
 <p align="justify">The functionalities that can be executed through the API libraries include, the user Log In & Authorization, the owned Data Offering List, Data Provision & Data Consumption, as shown in the following image. Some extra functionalities are he Data Offering Service Discovery (Data Offering Service Catalogue list), Data Offering Service Subscription requests and Data Offering Service Subscription responses.</p>
 
+</br>
+</br>
 <img width="1901" height="1145" alt="Swagger finished" src="https://github.com/user-attachments/assets/7bb13e02-a27c-44ed-b19b-13adb65be814" />
 
+</br>
 </br>
 
 ## 4.1 User Login & Authorization
 In this stage the user posts its credentials and the system returns back an Authorization token.
 
+</br>
+
 <img width="1352" height="637" alt="Log In   Authenticate Parameters" src="https://github.com/user-attachments/assets/ac5ad3bb-9145-44a9-8de7-ad6d0a2c6d87" />
+
+</br>
 
 The user copies the Token within the "Access token" field
 
+</br>
+
 <img width="1582" height="597" alt="image" src="https://github.com/user-attachments/assets/4fc26810-630a-44ff-b0b1-f7ecf3003c5c" />
+
+</br>
 
 and proceeds to the Authorization as shown below:
 
+</br>
+
 <img width="1360" height="702" alt="Authorize" src="https://github.com/user-attachments/assets/ceb48926-73d5-419b-8c59-4eed0adb34a6" />
 
+</br>
 </br>
 
 ## 4.2 My Data Offerings List 
 
 The user can retrieve the list of the Data Offerings services that have created through the corresponding API:
 
+</br>
+
 <img width="1371" height="622" alt="My offered services" src="https://github.com/user-attachments/assets/b1ad4ac5-19e1-48f4-8a43-9094b6b720c8" />
+
+</br>
 
 The user can use the ID of a Dta Offering service in order to Provide Data to all the Subsribed users to it.
 
 </br>
+</br>
 
 ## 4.3 Data Provide 
 
-In order to provide data the user 
+In order to provide data the user should have the ID of its Data Offering that desires to post data about. This can be done or through its Data Offering list from the API calls either through the Middleware UI as shown below.
+
+</br>
+
 
 
 </br>
 
 ## 4.4 Data Consume
+
+</br>
