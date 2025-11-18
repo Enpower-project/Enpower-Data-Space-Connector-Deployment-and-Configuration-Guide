@@ -20,9 +20,7 @@ exchange </p>
   - Contract Negotiation: Allows data providers to set or negotiate terms of data usage.
   - Data plane configuration and coordination.
   
-- <b>Data Plane</b>: Handles the actual data transfer, implementing various communication
-protocols like HTTP, to suit specific use cases. This plane manages the practical aspects of
-data transfer once policies are negotiated.
+- <b>Data Plane</b>: <p align="justify">Handles the actual data transfer, implementing various communication protocols like HTTP, to suit specific use cases. This plane manages the practical aspects of data transfer once policies are negotiated.
 </p>
 </br>
 
@@ -122,7 +120,7 @@ A demo presentation of the functionality of the Enpower Middleware is accessed i
 
 ## 2.2 Enpower Connector (IDSA Data Plane)
 
-The Connector is a complex structure composed of several key elements, including one or more
+<p align="justify">The Connector is a complex structure composed of several key elements, including one or more
 physical or virtual machines and the Connector Services layered on top of it. 
 The Connector is the core component of the Enpower Data Space for implementing the concept of Data Space. It serves as the gateway for secure connecting participants and the secure exchange of raw/actual data within the Data Space ecosystem. 
 A key benefit of this approach is the decentralization that enables data sovereignty—ensuring organizations retain full control over how their data is accessed and used. 
@@ -130,6 +128,7 @@ A key benefit of this approach is the decentralization that enables data soverei
 <b>Simply, Enpower Connector a dockerized piece of software that operates as a node the enables the distributed data exchange within the Data Space on behalf of a user. This dockerized software can be deployed locally in a server from any user that wants to connect to the Enpower Data Space ecosystem. </b>
 
 The Deployment and the Configuration of the Enpower Connector is described in the process below:
+</p>
 
 </br>
 </br>
