@@ -29,6 +29,13 @@ The IDSA initiative introduces the Data Space Protocol that defines the concept,
 
 </br>
 
+
+
+<!--
+
+
+
+
 ## 1.1 IDSA protocol core components
 <p align="justify">The Data Space structure omprises of two main components: Control Plane and Data Plane, each playing a crucial role in data management and
 exchange </p>
@@ -151,6 +158,14 @@ The Deployment and the Configuration of the Enpower Connector is described in th
 
 </br>
 </br>
+
+
+
+
+-->
+
+
+
 
 # 3. Deployment and Configuration of the Enpower Connector Guide
 
