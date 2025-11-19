@@ -309,7 +309,7 @@ The user can have access in the API tools through the URL:
 </br>
 
 ## 4.1 User Login & Authorization
-In this stage the user posts its credentials and the system returns back an Authorization token.
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/e48c87da-9ab3-4fce-8ebb-e038ba1bf409" />  In this stage the user posts its credentials and the system returns back an Authorization token.
 
 </br>
 
@@ -336,7 +336,7 @@ and proceeds to the Authorization as shown below:
 
 ## 4.2 My Data Offerings List 
 
-The user can retrieve the list of the Data Offerings services that have created through the corresponding API:
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/13bda268-b86f-49bc-bbf5-0ec13952c18f" />The user can retrieve the list of the Data Offerings services that have created through the corresponding API:
 
 </br>
 
@@ -351,7 +351,7 @@ The user can use the ID of a Dta Offering service in order to Provide Data to al
 
 ## 4.3 Data Provide 
 
-In order to provide data the user should have the ID of its Data Offering that desires to post data about. This can be done or through its Data Offering list from the API calls either through the Middleware UI as shown below.
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a56b5d31-3324-463f-bb35-452c8986f8d9" />In order to provide data the user should have the ID of its Data Offering that desires to post data about. This can be done or through its Data Offering list from the API calls either through the Middleware UI as shown below.
 
 </br>
 
@@ -360,5 +360,7 @@ In order to provide data the user should have the ID of its Data Offering that d
 </br>
 
 ## 4.4 Data Consume
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/f9995fb4-ae88-44d1-9f5c-76f38d55b87a" />
 
 </br>
