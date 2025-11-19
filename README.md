@@ -380,6 +380,7 @@ and proceeds to the Authorization, inserting the Authorization Token as shown be
 
 
 </br>
+</br>
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/b8676bce-688b-418f-86ad-14f714e19ca8" />    Since all the parameters are correct, the user should click the "Execute" button to share the data.
 
