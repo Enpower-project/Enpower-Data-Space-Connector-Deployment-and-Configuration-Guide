@@ -328,8 +328,9 @@ The user can have access in the API tools through the URL:
 </br>
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/b8676bce-688b-418f-86ad-14f714e19ca8" />
-and proceeds to the Authorization as shown below:
+and proceeds to the Authorization, inserting the Authorization Token as shown below:
 
+</br>
 </br>
 
 <img width="1360" height="702" alt="Authorize" src="https://github.com/user-attachments/assets/ceb48926-73d5-419b-8c59-4eed0adb34a6" />
@@ -339,7 +340,7 @@ and proceeds to the Authorization as shown below:
 
 ## 4.2 My Data Offerings List 
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/13bda268-b86f-49bc-bbf5-0ec13952c18f" />    The user can retrieve the list of the Data Offerings services that have created through the corresponding API:
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/13bda268-b86f-49bc-bbf5-0ec13952c18f" />    The user can retrieve the list of the Data Offerings services that have created through the corresponding API. The user should click the "Execute" button in order to retrieve the Data Offering list:
 
 </br>
 
@@ -348,7 +349,7 @@ and proceeds to the Authorization as shown below:
 </br>
 </br>
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />    The user can use the ID of a Dta Offering service in order to Provide Data to all the Subsribed users to it.
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />    The user can use the ID of a Data Offering service in order to Provide Data to all the Subsribed users to it.
 
 </br>
 </br>
@@ -379,13 +380,20 @@ and proceeds to the Authorization as shown below:
 
 
 </br>
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/b8676bce-688b-418f-86ad-14f714e19ca8" />    Since all the parameters are correct, the user should click the "Execute" button to share the data.
+
+</br>
 </br>
 
 ## 4.4 Consume Data
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/f9995fb4-ae88-44d1-9f5c-76f38d55b87a" />
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/f9995fb4-ae88-44d1-9f5c-76f38d55b87a" />    
 
 </br>
+</br>
+
+
 
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />
