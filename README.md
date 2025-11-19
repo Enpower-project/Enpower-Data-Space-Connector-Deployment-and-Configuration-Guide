@@ -309,7 +309,7 @@ The user can have access in the API tools through the URL:
 </br>
 
 ## 4.1 User Login & Authorization
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/e48c87da-9ab3-4fce-8ebb-e038ba1bf409" />  In this stage the user posts its credentials and the system returns back an Authorization token.
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/e48c87da-9ab3-4fce-8ebb-e038ba1bf409" />    In this stage the user posts its credentials and the system returns back an Authorization token.
 
 </br>
 
@@ -317,7 +317,7 @@ The user can have access in the API tools through the URL:
 
 </br>
 
-The user copies the Token within the "Access token" field
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/8e659562-7f5e-450f-b93d-6fc2082aef11" />    The user copies the Token within the "Access token" field
 
 </br>
 
