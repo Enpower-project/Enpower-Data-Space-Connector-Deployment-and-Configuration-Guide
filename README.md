@@ -12,9 +12,9 @@
    [3.3 Configuration of the Connector](#33-configuration-of-the-connector)</br>
 [4. API libraries](#4-api-libraries)</br>
    [4.1 User Login & Authorization](#41-user-login--authorization)</br>
-   [4.2 My Data Offerings List](42-my-data-offerings-list)</br>
-   [4.3 Provide Data](43-provide-data)</br>
-   [4.4 Consume Data](44-consume-data)</br>
+   [4.2 My Data Offerings List](#42-my-data-offerings-list)</br>
+   [4.3 Provide Data](#43-provide-data)</br>
+   [4.4 Consume Data](#44-consume-data)</br>
 
 
 # 1. Data Space Introduction
