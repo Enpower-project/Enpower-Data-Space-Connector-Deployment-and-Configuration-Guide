@@ -316,6 +316,7 @@ The user can have access in the API tools through the URL:
 <img width="1352" height="637" alt="Log In   Authenticate Parameters" src="https://github.com/user-attachments/assets/ac5ad3bb-9145-44a9-8de7-ad6d0a2c6d87" />
 
 </br>
+</br>
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />    The user copies the Token within the "Access token" field.
 
@@ -323,6 +324,7 @@ The user can have access in the API tools through the URL:
 
 <img width="1582" height="597" alt="image" src="https://github.com/user-attachments/assets/4fc26810-630a-44ff-b0b1-f7ecf3003c5c" />
 
+</br>
 </br>
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/b8676bce-688b-418f-86ad-14f714e19ca8" />
@@ -344,23 +346,42 @@ and proceeds to the Authorization as shown below:
 <img width="1371" height="622" alt="My offered services" src="https://github.com/user-attachments/assets/b1ad4ac5-19e1-48f4-8a43-9094b6b720c8" />
 
 </br>
+</br>
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />    The user can use the ID of a Dta Offering service in order to Provide Data to all the Subsribed users to it.
 
 </br>
 </br>
 
-## 4.3 Data Provide 
+## 4.3 Provide Data
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a56b5d31-3324-463f-bb35-452c8986f8d9" />In order to provide data the user should have the ID of its Data Offering that desires to post data about. This can be done or through its Data Offering list from the API calls either through the Middleware UI as shown below.
-
-</br>
-
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a56b5d31-3324-463f-bb35-452c8986f8d9" />   In order to provide data the user should have the ID of its Data Offering that desires to post data about. This can be done or through its Data Offering list from the API calls either through the Middleware UI as shown below:
 
 </br>
 
-## 4.4 Data Consume
+<img width="1918" height="911" alt="Data Offering ID" src="https://github.com/user-attachments/assets/ec7fc0a8-046c-44dc-aca6-6643077f1568" />
+
+
+</br>
+</br>
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />  Since the user has the desired ID, needs to set the parameters of the API, filling the following fields, namely:
+
+* "title" : The title of the Data Entity that will be provided.
+* "description" : The description of the Data Entity content.
+* "filename" : The name of the Data Entity file.
+* "file" : The content of the Data Entity file.
+* "data_offering_id" : The ID of the related Data Offering service.
+
+</br>
+
+<img width="1357" height="641" alt="Data Provide" src="https://github.com/user-attachments/assets/44d4c8f3-a413-48fd-a71f-ce450ea95cf1" />
+
+
+</br>
+</br>
+
+## 4.4 Consume Data
 
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/f9995fb4-ae88-44d1-9f5c-76f38d55b87a" />
 
