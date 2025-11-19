@@ -389,7 +389,8 @@ and proceeds to the Authorization, inserting the Authorization Token as shown be
 
 ## 4.4 Consume Data
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/f9995fb4-ae88-44d1-9f5c-76f38d55b87a" />    
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/f9995fb4-ae88-44d1-9f5c-76f38d55b87a" />    In order to consume data, the user should identify the ID of the desired Data Entity that wants to consume. This can be done or by retrieving the list of the Data Entities that can be consumed either by navigating to the desired Data Entity through the Middleware:
+
 
 </br>
 </br>
