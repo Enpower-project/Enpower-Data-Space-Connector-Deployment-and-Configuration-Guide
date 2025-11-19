@@ -1,3 +1,6 @@
+##### Table of Contents  
+[Headers](#headers)  
+
 # 1. Data Space Introduction
 
 <p align="justify">A data space is a federated, decentralized infrastructure that allows organizations to share data securely and govern its usage according to mutually agreed-upon rules. </p>
