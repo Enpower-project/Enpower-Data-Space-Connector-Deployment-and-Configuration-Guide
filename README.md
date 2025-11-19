@@ -1,6 +1,6 @@
 ##### Table of Contents  
 [1. Data Space Introduction](#1-data-space-introduction)</br>
-   [1.1 IDSA protocol core components](#11-idsa-protocol-core-components)</br>
+   [1.1 IDSA protocol core components](##11-idsa-protocol-core-components)</br>
    [1.2 IDSA protocol core goals](#12-idsa-protocol-core-goals)</br>
    [1.3 IDSA key features and principles](#13-idsa-key-features-and-principles)</br>
 [2. Data Space within Enpower](#2-data-space-within-enpower)</br>
