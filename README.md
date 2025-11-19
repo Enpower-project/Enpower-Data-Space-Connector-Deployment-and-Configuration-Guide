@@ -389,13 +389,39 @@ and proceeds to the Authorization, inserting the Authorization Token as shown be
 
 ## 4.4 Consume Data
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/f9995fb4-ae88-44d1-9f5c-76f38d55b87a" />    In order to consume data, the user should identify the ID of the desired Data Entity that wants to consume. This can be done or by retrieving the list of the Data Entities that can be consumed either by navigating to the desired Data Entity through the Middleware:
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/f9995fb4-ae88-44d1-9f5c-76f38d55b87a" />    In order to consume data, the user should identify the ID of the desired Data Entity that wants to consume. This can be done or by retrieving the list of the Data Entities that can be consumed either by navigating the "Consume Data" page and select the desired Data Entity through the Middleware:
 
+</br>
+
+The "Consume Data" page containing all the Data Entities that the user have received from the Data Offerings that has subscibed to:
+
+</br>
+
+<img width="1918" height="907" alt="Consume Data" src="https://github.com/user-attachments/assets/c3baa975-5c0c-4a4a-8114-d515897ebfdc" />
+
+
+</br>
+
+The specific Data Entity that user wants to consume, and contains the ID of the Data Entity that will be used to the following API call:
+
+</br>
+
+<img width="1918" height="907" alt="Provided Data ID" src="https://github.com/user-attachments/assets/ada51f38-f22a-4440-9bdf-447ba36efaa4" />
 
 </br>
 </br>
 
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />    Having the Data Entity ID the user should, click the "Try it out" button, then  fill the "id" field and finally click the button "Execute" in order to retrieve the Data Entity file
+
+</br>
+</br>
+
+<img width="1352" height="326" alt="consme data" src="https://github.com/user-attachments/assets/ae60cda5-ae00-440f-9ee2-c086c5bbb2fe" />
+
+</br>
+</br>
+
+The response of that API contains the content and metadata of the retrieved Data Entity file.
 
 
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />
