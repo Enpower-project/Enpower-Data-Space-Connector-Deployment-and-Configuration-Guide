@@ -1,6 +1,6 @@
 ##### Table of Contents  
-[1. Data Space Introduction](#1.-data-space-introduction)  
-[ 1.1 IDSA protocol core components](#1.1-idsa-protocol-core-components)
+[1. Data Space Introduction](#1-data-space-introduction)  
+[ 1.1 IDSA protocol core components](#11-idsa-protocol-core-components)
 
 # 1. Data Space Introduction
 
