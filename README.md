@@ -1,19 +1,24 @@
 ##### Table of Contents  
 [1. Data Space Introduction](#1-data-space-introduction)</br>
 [  1.1 IDSA protocol core components](#11-idsa-protocol-core-components)</br>
-[  1.2 IDSA protocol core goals](12-idsa-protocol-core-goals)</br>
-[  1.3 IDSA key features and principles](13-idsa-key-features-and-principles)</br>
-[2. Data Space within Enpower](2-data-space-within-enpower)</br>
-[  2.1 Enpower Middleware (IDSA Control Plane)](21-enpower-middleware-idsa-control-plane)</br>
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[  1.2 IDSA protocol core goals](#12-idsa-protocol-core-goals)</br>
+[  1.3 IDSA key features and principles](#13-idsa-key-features-and-principles)</br>
+[2. Data Space within Enpower](#2-data-space-within-enpower)</br>
+[  2.1 Enpower Middleware (IDSA Control Plane)](#21-enpower-middleware-idsa-control-plane)</br>
+[  2.2 Enpower Connector (IDSA Data Plane)](#22-enpower-connector-idsa-data-plane)</br>
+[3. Deployment and Configuration of the Enpower Connector Guide](#3-deployment-and-configuration-of-the-enpower-connector-guide)</br>
+[  3.1 Prerequisites](#31-prerequisites)</br>
+[  3.2 Deployment of the Enpower Connector](#32-deployment-of-the-enpower-connector)</br>
+[  3.3 Configuration of the Connector](#33-configuration-of-the-connector)</br>
+[4. API libraries](#4-api-libraries)</br>
+[  4.1 User Login & Authorization](#41-user-login--authorization)</br>
+[]()</br>
+[]()</br>
+[]()</br>
+[]()</br>
+[]()</br>
+[]()</br>
+[]()</br>
 []()
 []()
 []()
