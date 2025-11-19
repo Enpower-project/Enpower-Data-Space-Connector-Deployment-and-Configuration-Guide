@@ -317,7 +317,7 @@ The user can have access in the API tools through the URL:
 
 </br>
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/8e659562-7f5e-450f-b93d-6fc2082aef11" />    The user copies the Token within the "Access token" field
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />    The user copies the Token within the "Access token" field.
 
 </br>
 
@@ -325,6 +325,7 @@ The user can have access in the API tools through the URL:
 
 </br>
 
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/b8676bce-688b-418f-86ad-14f714e19ca8" />
 and proceeds to the Authorization as shown below:
 
 </br>
@@ -336,7 +337,7 @@ and proceeds to the Authorization as shown below:
 
 ## 4.2 My Data Offerings List 
 
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/13bda268-b86f-49bc-bbf5-0ec13952c18f" />The user can retrieve the list of the Data Offerings services that have created through the corresponding API:
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/13bda268-b86f-49bc-bbf5-0ec13952c18f" />    The user can retrieve the list of the Data Offerings services that have created through the corresponding API:
 
 </br>
 
@@ -344,7 +345,7 @@ and proceeds to the Authorization as shown below:
 
 </br>
 
-The user can use the ID of a Dta Offering service in order to Provide Data to all the Subsribed users to it.
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />    The user can use the ID of a Dta Offering service in order to Provide Data to all the Subsribed users to it.
 
 </br>
 </br>
@@ -355,7 +356,7 @@ The user can use the ID of a Dta Offering service in order to Provide Data to al
 
 </br>
 
-
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />
 
 </br>
 
@@ -364,3 +365,6 @@ The user can use the ID of a Dta Offering service in order to Provide Data to al
 <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/f9995fb4-ae88-44d1-9f5c-76f38d55b87a" />
 
 </br>
+
+
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/a60d2553-669a-4737-bbec-c9ca73b69bca" />
