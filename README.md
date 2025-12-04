@@ -181,7 +181,7 @@ The hardware and operating system prerequisites are:
 The software prerequisites include:
 
 - Centos 7 or Windows Server Operative System (OS);
-- Docker and docker-compose;
+- Docker and docker-compose
 
 Enpower Connector software and its components will be delivered utilizing the Docker containers of the folder <code style="color : #FF0000">"Enpower Connector Docker Files"</code> of this repository. </br>
 
@@ -256,7 +256,7 @@ The next steps are responsible to configure the deployed Connector, in a way tha
 
 * <b>Local API:</b>
 
-Data App Must Be Publicly Exposed In A Static Ip Via Https, before saved on the connection settings. This happens because Data App is served as an endpoint for peer to peer file transfer between you and other Enpower users. For the Local API URL, you should expose port <code style="color : #FF0000">:30001</code> of the local server to an https domain. For example, I would expose it as below:
+Local API Must Be Publicly Exposed In A Static Ip Via Https, before saved on the connection settings. This happens because Data App is served as an endpoint for peer to peer file transfer between you and other Enpower users. For the Local API URL, you should expose port <code style="color : #FF0000">:30001</code> of the local server to an https domain. For example, I would expose it as below:
 
 <code style="color : #FF0000">https://enpower-localapi.my-public-domain.com</code> ➡️ <code style="color : #FF0000">http://my-local-server.com:30001
 </code>
